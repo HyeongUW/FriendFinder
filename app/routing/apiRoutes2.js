@@ -38,14 +38,13 @@ module.exports = function(app) {
 
     }
     console.log(diffArray);
-    //var min = Math.min.apply(Math, diffArray);
-    var indexOfResult = diffArray.indexOf(Math.min.apply(Math, diffArray));
-    console.log(friendData[indexOfResult]);
+    var min = Math.min.apply(Math, diffArray);
+    console.log();
     
 
     // putting into the frined Array
     friendData.push(newFriend);
-    res.json(friendData[indexOfResult]);    
+    res.json(true);    
   });
 
 };
