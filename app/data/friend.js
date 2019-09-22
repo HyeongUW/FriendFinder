@@ -58,7 +58,7 @@ var friendArray = [
     {
         // diff 1 (if entire answers for the new Character are equal to '1')
         name: "David",
-        photo:"https://cdn.onlinewebfonts.com/svg/img_74993.png",
+        photo:"https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80",
         scores:[
             "1",
             "1",
