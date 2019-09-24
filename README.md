@@ -8,7 +8,7 @@ This is a compatibility-based "FriendFinder" application -- basically a dating a
 ## Use Example:
 
 * General Use Case
-### ![use-example](./app/images/thumbnail.gif)
+### ![use-example](./assets/images/thumbnail.gif)
 
 ## Getting Started
 
